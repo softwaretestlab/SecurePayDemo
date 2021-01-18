@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="17.098525">
+<testcase classname="Navigate to SecurePay website" name="Search for SecurePay on google and Navigate to website" time="17.098525">
+<system-out><![CDATA[Given Navigate to Google site...............................................passed
+Then search for securePay and navigate to homepage of SecurePay.............passed
+Then Verify ContactUs page is loaded........................................passed
+Then Fill ContactUs form....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

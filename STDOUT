@@ -1,0 +1,8 @@
+Feature: Navigate to SecurePay website
+
+  @TestRun
+  Scenario: Search for SecurePay on google and Navigate to website  [90m# FF01_NavToSecurePaynFillContactUsForm.feature:4[0m
+    [32mGiven [0m[32mNavigate to Google site[0m                                   [90m# SD01_NavToSecPay.navigate_to_Google_site()[0m
+    [32mThen [0m[32msearch for securePay and navigate to homepage of SecurePay[0m [90m# SD01_NavToSecPay.search_for_securePay_and_navigate_to_homepage_of_SecurePay()[0m
+    [32mThen [0m[32mVerify ContactUs page is loaded[0m                            [90m# SD02_FillContactUsForm.verify_ContactUs_page_is_loaded()[0m
+    [32mThen [0m[32mFill ContactUs form[0m                                        [90m# SD02_FillContactUsForm.fill_ContactUs_form()[0m

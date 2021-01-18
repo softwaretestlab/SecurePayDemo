@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Search Functionality Verify
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.01 s <<< FAILURE! - in Scenario: Search Functionality Verify
+Feature: Search Functionality  Time elapsed: 0.01 s  <<< ERROR!
+cucumber.runtime.CucumberException: Expected step: "I am presented with a carousel displaying 3 featured articles" got step: "I navigate to the PwC Digital Pulse website"
+

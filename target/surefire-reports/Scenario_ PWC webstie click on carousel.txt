@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: PWC webstie click on carousel
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.532 s - in Scenario: PWC webstie click on carousel
